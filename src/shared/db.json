@@ -105,42 +105,6 @@
       "contents": "asdfasdf",
       "isDeleted": false,
       "id": 9
-    },
-    {
-      "ㄷㄷㄷ": "",
-      "id": 10
-    },
-    {
-      "저장": "",
-      "id": 11
-    },
-    {
-      "ee": "",
-      "id": 12
-    },
-    {
-      "email": "test123@gmail.com",
-      "contents": "ee",
-      "isDeleted": false,
-      "id": 13
-    },
-    {
-      "email": "test123@gmail.com",
-      "contents": "EE",
-      "isDeleted": false,
-      "id": 14
-    },
-    {
-      "email": "test123@gmail.com",
-      "contents": "ee",
-      "isDeleted": false,
-      "id": 15
-    },
-    {
-      "email": "test123@gmail.com",
-      "contents": "ee",
-      "isDeleted": false,
-      "id": 16
     }
   ]
 }
